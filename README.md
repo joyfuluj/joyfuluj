@@ -1,7 +1,7 @@
 ## Hi! I'm Joy Umejiego;)
 
 # 💫 About Me:
- 🔭 I’m currently working on **News-Portal**<br><br> 🌱 I’m currently learning **Django framework, React, Node.js**<br><br>💬 Ask me about **Python**<br><br> 📫 How to reach me **joyumejiego@gmail.com**<br><br> ⚡ Fun fact **I was born and raised in Japan, but I've never eaten Sushi there.**
+ 🔭 I’m currently working on an individual project **News-Portal**<br><br> 🌱 I’m currently learning **Django framework, React, Node.js**<br><br>💬 Ask me about **Python**<br><br> 📫 How to reach me **joyumejiego@gmail.com**<br><br> ⚡ Fun fact **I was born and raised in Japan, but I've never eaten Sushi there.**
 
 
 ## 🌐 Socials:
