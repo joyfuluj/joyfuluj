@@ -2,8 +2,7 @@
 
 # 💫 About Me:
 🏫 I'm a 4th year student at the University of British Columbia majoring in CS.<br><br>
-🔍 I'm currently seeking a Summer 2025 internship in web development or project management.<br><br>
- 🔭 Currently working on an individual project **News-Portal**<br><br> 🌱 Learning **Django framework, React, Node.js**<br><br>💬 Ask me about **Python**<br><br> 📫 How to reach me **joyumejiego@yahoo.com**<br><br> ⚡ Fun fact **I was born and raised in Japan, but I've never eaten Sushi there.**
+ 🔭 Currently working on an individual project **Language-bot**<br><br> 🌱 Learning **React, Node.js**<br><br>💬 Ask me about **Python**<br><br> 📫 How to reach me **joyumejiego@yahoo.com**<br><br> ⚡ Fun fact **I was born and raised in Japan, but I've never eaten Sushi there.**
 
 
 ## 🌐 Socials:
